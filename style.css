@@ -1,0 +1,37 @@
+.body {
+}
+.container .display-4 {
+  color: firebrick;
+  font-weight: 500;
+  font-size: 100px;
+  font-family: "Allura", cursive;
+}
+
+.card-body .card-title {
+  color: firebrick;
+  font-weight: 500;
+  font-size: 30px;
+  font-family: "Allura", cursive;
+}
+
+.nav-item .nav-link {
+  color: aliceblue;
+}
+
+.jumbotron .btn {
+  background-color: firebrick;
+  font-weight: 500;
+  color: white;
+}
+
+.nav-item .dropdown-menu {
+  background-color: firebrick;
+}
+
+.dropdown-menu .dropdown-item {
+  color: white;
+}
+
+.center .container {
+  text-align: right;
+}
